@@ -3,3 +3,4 @@
 venv
 *.pyc
 gestao_rh/__py_cache/
+django_dev.pem
